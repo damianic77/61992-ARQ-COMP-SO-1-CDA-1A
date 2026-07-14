@@ -18,3 +18,5 @@ Resolvi este nivel gracias a un video del canal Leadus, el canal esta en ingles,
 **Nivel 2**
 ![alt text](2T.png)
 Este nivel lo resolvi solo, use la logica de que abajo tenia un interruptor, al momento de encenderlo representaba 0 y al momento de apagarlo representaba 1, use la compuerta logica NAND, conecte los puetos a y b al interruptor.
+
+**Llegue esta este nivel por motivos de tiempo**
