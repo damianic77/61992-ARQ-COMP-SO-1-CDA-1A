@@ -23,11 +23,11 @@ Este nivel lo resolvi solo, use la logica de que abajo tenia un interruptor, al 
 
 **Llegue esta este nivel por motivos de tiempo**
 
-##LITTLE MAN COMPUTER
+## LITTLE MAN COMPUTER
 
-![alt text][1D.png]
+![alt text](1D.png)
 
-**Explicacion:
+**Explicacion:**
 
 Primera el contador del programa se dirije a la direccion , lee la intruccion y la lleva al registro de intruccion.La Control Unit lee el codigo del programa.
 
