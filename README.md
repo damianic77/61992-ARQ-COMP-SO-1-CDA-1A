@@ -35,7 +35,7 @@ EL OPCODE esa la operacion matematica y el Operand nos indica que el numero a su
 
 Por ultimo ALU realiza la suma en lenguaje binario con el valor de ACC(5) y con el valor traido  desde la MEMORIA(5), lo que nos da 10.
 
-## ARP - 2
+## ARP -A
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
